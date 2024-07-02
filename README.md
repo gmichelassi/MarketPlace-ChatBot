@@ -8,7 +8,7 @@ Abaixo temos um exemplo de conversa com o ChatBot:
 
 ![img.png](assets/demo.png)
 
-O vídeo completo da demonstração pode ser encontrado [aqui](https://www.youtube.com/).
+O vídeo completo da demonstração pode ser encontrado [aqui](https://youtu.be/LLvcMS-_zc0).
 
 
 ## Como executar?
